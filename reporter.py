@@ -2,12 +2,13 @@ import csv
 import smtplib
 from email.mime.text import MIMEText
 import json
+import os
 
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_ADDRESS = os.getenv("EMAIL_ADDRESS")
-EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
+EMAIL_ADDRESS = os.getenv("ALERT_EMAIL")
+EMAIL_PASSWORD = os.getenv("ALERT_PASSWORD")
 
 
 def save_csv(results, filename="report.csv"):
