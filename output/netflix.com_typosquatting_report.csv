@@ -1,0 +1,11 @@
+domain,exists,A,http_code,https_code,final_url,title,ssl_issuer,ssl_subject,score
+netf1ix.com,True,['75.2.18.233'],200,200,https://netf1ix.com/,,"{'countryName': 'US', 'organizationName': ""Let's Encrypt"", 'commonName': 'R13'}",{'commonName': 'netf1ix.com'},77
+netflixm.com,True,['103.224.212.123'],200,200,https://netflixm.com/,netflixm.com,"{'countryName': 'US', 'organizationName': ""Let's Encrypt"", 'commonName': 'R12'}",{'commonName': 'jrfarc.org'},72
+netflix4.com,True,"['44.230.85.241', '52.33.207.7']",200,200,https://choto.click/vx/s6YBQ61vsb58NZvk,choto.click,"{'countryName': 'US', 'organizationName': ""Let's Encrypt"", 'commonName': 'R12'}",{'commonName': 'netflix4.com'},72
+nrtflix.com,True,['78.41.204.39'],200,200,https://nrtflix.com/,Loading...,"{'countryName': 'US', 'organizationName': ""Let's Encrypt"", 'commonName': 'R12'}",{'commonName': 'nrtflix.com'},62
+neyflix.com,True,['54.235.212.68'],200,,http://neyflix.com/,,,,60
+nteflix.com,True,['54.235.212.68'],200,,http://nteflix.com/,,,,60
+xn--netflx-fwa.com,True,['91.195.240.94'],403,436,https://xn--netflx-fwa.com/,,"{'countryName': 'GB', 'organizationName': 'Sectigo Limited', 'commonName': 'Sectigo Public Server Authentication CA DV R36'}",{'commonName': 'xn--netflx-fwa.com'},60
+netflixd.com,True,['5.39.216.238'],200,200,https://netflixd.com/,Loading...,"{'countryName': 'US', 'organizationName': ""Let's Encrypt"", 'commonName': 'R13'}",{'commonName': 'netflixd.com'},59
+netf-lix.com,True,['107.150.0.28'],,,,,,,57
+ne6flix.com,True,['192.119.138.104'],404,,http://ne6flix.com/,,,,55
